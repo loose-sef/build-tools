@@ -108,6 +108,12 @@ public class App {
 ```
 The `main` method will print `Hello World!` in the terminal.
 
+### Resources
+* [Maven in 5 Minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+* [Maven Archetype Plugin](https://maven.apache.org/archetype/maven-archetype-plugin/)
+* [Maven Compiler Plugin](https://maven.apache.org/plugins/maven-compiler-plugin/)
+* [Maven Exec Plugin](https://maven.apache.org/plugins/maven-exec-plugin/)
+* 
 
 ## Gradle
 Gradle was created by Gradle, Inc. and is a build tool for Java projects. It is based on the concept of a build script. The build script is a Groovy or Kotlin file that contains information about the project and configuration details used by Gradle to build the project. The build script is the fundamental unit of work in Gradle. It is a central piece of information that is used to coordinate builds, reporting and documentation from a central piece of information.
@@ -217,6 +223,12 @@ public class App {
 ```
 The `main` method will print `Hello World!` in the terminal.
 
+### Resources
+* [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html)
+* [Gradle Build Scans](https://scans.gradle.com/)
+* [Gradle Build Cache](https://docs.gradle.org/current/userguide/build_cache.html)
+* [Gradle Dependency Management](https://docs.gradle.org/current/userguide/dependency_management.html)
+
 ## Npm  
 npm is a package manager for JavaScript projects. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry. The registry is accessed via the client, and the available packages can be browsed and searched via the npm website.
 
@@ -312,3 +324,10 @@ Also, you can use `npx` to run the executable Node project by running the follow
 ```
 npx hello-world
 ```
+
+### Resources
+* [npm Documentation](https://docs.npmjs.com/)
+* [npm CLI](https://docs.npmjs.com/cli-documentation/)
+* [npm Scripts](https://docs.npmjs.com/misc/scripts)
+* [npm Package.json](https://docs.npmjs.com/cli/v7/configuring-npm/package-json)
+* [npm Package-lock.json](https://docs.npmjs.com/cli/v7/configuring-npm/package-lock-json)
